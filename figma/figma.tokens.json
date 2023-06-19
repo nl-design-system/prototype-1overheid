@@ -2147,11 +2147,11 @@
           "type": "lineHeights"
         },
         "padding-block-end": {
-          "value": "{voorbeeld.space.block.ant}",
+          "value": "{voorbeeld.space.block.beetle}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{voorbeeld.space.block.ant}",
+          "value": "{voorbeeld.space.block.beetle}",
           "type": "spacing"
         },
         "padding-inline-end": {
