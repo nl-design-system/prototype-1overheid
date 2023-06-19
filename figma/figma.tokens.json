@@ -448,6 +448,38 @@
             "type": "color"
           }
         },
+        "hemelblauw": {
+          "50": {
+            "value": "#f0faff",
+            "type": "color",
+            "description": "Mistblauw - zeer lichte tint van rijkshuisstijl hemelblauw."
+          },
+          "100": {
+            "value": "#d9ebf7",
+            "type": "color",
+            "description": "Rijkshuisstijl hemelblauw tint 2"
+          },
+          "300": {
+            "value": "#b3d7ee",
+            "type": "color",
+            "description": "Rijkshuisstijl hemelblauw tint 1"
+          },
+          "500": {
+            "value": "#007bc7",
+            "type": "color",
+            "description": "Rijkshuisstijl hemelbauw"
+          },
+          "525": {
+            "value": "#0074bd",
+            "type": "color",
+            "description": "Rijkshuisstijl hemelblauw;\ntint donkerder voor contrast bij gebruik op lichtblauwe achtergrond"
+          },
+          "600": {
+            "value": "#00629e",
+            "type": "color",
+            "description": "Rijkshuisstijl hemelblauw; \n+8% donkerder dmv sass darken() functie"
+          }
+        },
         "blue": {
           "50": {
             "value": "#eef8fe",
