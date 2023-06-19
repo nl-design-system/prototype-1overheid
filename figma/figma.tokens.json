@@ -2036,7 +2036,7 @@
         },
         "border-radius": {
           "type": "borderRadius",
-          "value": "{voorbeeld.border-radius.md}"
+          "value": "{voorbeeld.border-radius.sm}"
         },
         "border-width": {
           "type": "borderWidth",
@@ -2143,19 +2143,19 @@
           "type": "lineHeights"
         },
         "padding-block-end": {
-          "value": "{voorbeeld.space.block.snail}",
+          "value": "{voorbeeld.space.block.beetle}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{voorbeeld.space.block.snail}",
+          "value": "{voorbeeld.space.block.beetle}",
           "type": "spacing"
         },
         "padding-inline-end": {
-          "value": "{voorbeeld.space.inline.mouse}",
+          "value": "{voorbeeld.space.inline.snail}",
           "type": "spacing"
         },
         "padding-inline-start": {
-          "value": "{voorbeeld.space.inline.mouse}",
+          "value": "{voorbeeld.space.inline.snail}",
           "type": "spacing"
         },
         "disabled": {
