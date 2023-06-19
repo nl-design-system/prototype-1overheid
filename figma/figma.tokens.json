@@ -1227,7 +1227,7 @@
       },
       "pointer-target": {
         "min-size": {
-          "value": "{voorbeeld.size.md}",
+          "value": "{voorbeeld.size.sm}",
           "type": "sizing"
         }
       },
