@@ -816,6 +816,10 @@
         "round": {
           "value": "999px",
           "type": "borderRadius"
+        },
+        "xs": {
+          "value": "2px",
+          "type": "borderRadius"
         }
       },
       "border-width": {
@@ -2036,7 +2040,7 @@
         },
         "border-radius": {
           "type": "borderRadius",
-          "value": "{voorbeeld.border-radius.sm}"
+          "value": "{voorbeeld.border-radius.xs}"
         },
         "border-width": {
           "type": "borderWidth",
