@@ -1033,18 +1033,18 @@
       },
       "interaction": {
         "color": {
-          "value": "{voorbeeld.color.violet.700}",
+          "value": "{voorbeeld.color.hemelblauw.500}",
           "type": "color"
         },
         "active": {
           "color": {
-            "value": "{voorbeeld.color.violet.900}",
+            "value": "{voorbeeld.color.hemelblauw.600}",
             "type": "color"
           }
         },
         "hover": {
           "color": {
-            "value": "{voorbeeld.color.violet.800}",
+            "value": "{voorbeeld.color.hemelblauw.600}",
             "type": "color"
           }
         }
