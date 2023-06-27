@@ -1168,7 +1168,7 @@
           "hover": {
             "background-color": {
               "type": "color",
-              "value": "{voorbeeld.color.gray.100}"
+              "value": "{voorbeeld.color.grijs.100}"
             },
             "border-color": {
               "value": "transparent",
@@ -1181,7 +1181,7 @@
           },
           "expanded": {
             "background-color": {
-              "value": "{voorbeeld.color.gray.50}",
+              "value": "{voorbeeld.color.grijs.100}",
               "type": "color"
             },
             "border-color": {
@@ -1195,7 +1195,7 @@
           },
           "background-color": {
             "type": "color",
-            "value": "{voorbeeld.color.gray.50}"
+            "value": "{voorbeeld.color.grijs.100}"
           },
           "border-color": {
             "value": "transparent",
@@ -1222,7 +1222,7 @@
           "active": {
             "background-color": {
               "type": "color",
-              "value": "{voorbeeld.color.gray.200}"
+              "value": "{voorbeeld.color.grijs.100}"
             },
             "border-color": {
               "value": "transparent",
