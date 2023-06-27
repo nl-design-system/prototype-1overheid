@@ -80,372 +80,126 @@
           "value": "#000000",
           "type": "color"
         },
-        "violet": {
-          "50": {
-            "value": "#f8f5ff",
-            "type": "color"
-          },
+        "groen": {
           "100": {
-            "value": "#f0ebff",
-            "type": "color"
-          },
-          "200": {
-            "value": "#dbcdff",
-            "type": "color"
+            "value": "#e1eddb",
+            "type": "color",
+            "description": "Rijkshuisstijl groen tint 2"
           },
           "300": {
-            "value": "#c6b0ff",
-            "type": "color"
-          },
-          "400": {
-            "value": "#b092ff",
-            "type": "color"
+            "value": "#c4dbb6",
+            "type": "color",
+            "description": "Rijkshuisstijl groen tint 1"
           },
           "500": {
-            "value": "#966eff",
-            "type": "color"
+            "value": "#39870c",
+            "type": "color",
+            "description": "Rijkshuisstijl groen basiskleur"
+          },
+          "525": {
+            "value": "#357f0a",
+            "type": "color",
+            "description": "Contrastkleur voor op lichtblauwe achtergrond."
           },
           "600": {
-            "value": "#743fff",
-            "type": "color"
-          },
-          "700": {
-            "value": "#5616ff",
-            "type": "color"
-          },
-          "800": {
-            "value": "#4a13db",
-            "type": "color"
-          },
-          "900": {
-            "value": "#3b0faf",
-            "type": "color"
-          },
-          "950": {
-            "value": "#210963",
-            "type": "color"
+            "value": "#296209",
+            "type": "color",
+            "description": "Rijkshuisstijl groen; \n+8% donkerder dmv sass darken() functie"
           }
         },
-        "gray": {
-          "50": {
-            "value": "#f5f6f8",
-            "type": "color"
-          },
+        "grijs": {
           "100": {
-            "value": "#ebeef1",
-            "type": "color"
-          },
-          "200": {
-            "value": "#cfd5dd",
-            "type": "color"
+            "value": "#e5e9ea",
+            "type": "color",
+            "description": "Grijs tint 2"
           },
           "300": {
-            "value": "#b4bdc9",
-            "type": "color"
-          },
-          "400": {
-            "value": "#99a5b6",
-            "type": "color"
+            "value": "#bdc6c9",
+            "type": "color",
+            "description": "Grijs tint 1"
           },
           "500": {
-            "value": "#7a8aa0",
-            "type": "color"
+            "value": "#5e6568",
+            "type": "color",
+            "description": "Grijs basiskleur"
           },
           "600": {
-            "value": "#586c88",
-            "type": "color"
-          },
-          "700": {
-            "value": "#435979",
-            "type": "color"
-          },
-          "800": {
-            "value": "#344c6e",
-            "type": "color"
-          },
-          "900": {
-            "value": "#223c61",
-            "type": "color"
-          },
-          "950": {
-            "value": "#001e49",
-            "type": "color"
+            "value": "#4b5053",
+            "type": "color",
+            "description": "Grijs; \n+8% donkerder dmv sass darken() functie"
           }
         },
-        "pink": {
-          "50": {
-            "value": "#fcf4f8",
-            "type": "color"
-          },
+        "rood": {
           "100": {
-            "value": "#fae9f1",
-            "type": "color"
-          },
-          "200": {
-            "value": "#f2c9dc",
-            "type": "color"
+            "value": "#f9dfdd",
+            "type": "color",
+            "description": "Rijkshuisstijl rood tint 2"
           },
           "300": {
-            "value": "#eaaac7",
-            "type": "color"
-          },
-          "400": {
-            "value": "#e289b1",
-            "type": "color"
+            "value": "#f2bfbc",
+            "type": "color",
+            "description": "Rijkshuisstijl rood tint 1"
           },
           "500": {
-            "value": "#d85e95",
-            "type": "color"
+            "value": "#d52b1e",
+            "type": "color",
+            "description": "Rijkshuisstijl rood basiskleur"
           },
           "600": {
-            "value": "#c9216c",
-            "type": "color"
-          },
-          "700": {
-            "value": "#ac0f55",
-            "type": "color"
-          },
-          "800": {
-            "value": "#930d49",
-            "type": "color"
-          },
-          "900": {
-            "value": "#760a3b",
-            "type": "color"
-          },
-          "950": {
-            "value": "#420621",
-            "type": "color"
+            "value": "#b12419",
+            "type": "color",
+            "description": "Rijkshuisstijl rood; \n+8% donkerder dmv sass darken() functie"
           }
         },
-        "red": {
-          "50": {
-            "value": "#fff4f4",
-            "type": "color"
-          },
+        "oranje": {
           "100": {
-            "value": "#fee9ea",
-            "type": "color"
-          },
-          "200": {
-            "value": "#fdc7ca",
-            "type": "color"
+            "value": "#fbead9",
+            "type": "color",
+            "description": "Rijkshuisstijl oranje tint 2"
           },
           "300": {
-            "value": "#fba5a9",
-            "type": "color"
-          },
-          "400": {
-            "value": "#fa7f85",
-            "type": "color"
+            "value": "#f6d4b3",
+            "type": "color",
+            "description": "Rijkshuisstijl oranje tint 1"
           },
           "500": {
-            "value": "#f7464e",
-            "type": "color"
-          },
-          "600": {
-            "value": "#cd262d",
-            "type": "color"
-          },
-          "700": {
-            "value": "#ab1f25",
-            "type": "color"
-          },
-          "800": {
-            "value": "#95112d",
-            "type": "color"
-          },
-          "900": {
-            "value": "#770e25",
-            "type": "color"
-          },
-          "950": {
-            "value": "#410c0e",
-            "type": "color"
+            "value": "#e17000",
+            "type": "color",
+            "description": "Rijkshuisstijl oranje basiskleur"
           }
         },
-        "orange": {
-          "50": {
-            "value": "#fff5ed",
-            "type": "color"
-          },
+        "donkergeel": {
           "100": {
-            "value": "#ffead9",
-            "type": "color"
-          },
-          "200": {
-            "value": "#ffcaa1",
-            "type": "color"
+            "value": "#fff4db",
+            "type": "color",
+            "description": "Rijkshuisstijl donkergeel tint 2"
           },
           "300": {
-            "value": "#ffa865",
-            "type": "color"
+            "value": "#ffe9b8",
+            "type": "color",
+            "description": "Rijkshuisstijl donkergeel tint 1"
           },
           "400": {
-            "value": "#ff8120",
-            "type": "color"
+            "value": "#ffd372",
+            "type": "color",
+            "description": "Focusgeel voor interactieve elementen"
           },
           "500": {
-            "value": "#da6c18",
-            "type": "color"
-          },
-          "600": {
-            "value": "#a75312",
-            "type": "color"
-          },
-          "700": {
-            "value": "#8b450f",
-            "type": "color"
-          },
-          "800": {
-            "value": "#763b0d",
-            "type": "color"
-          },
-          "900": {
-            "value": "#5e2f0a",
-            "type": "color"
-          },
-          "950": {
-            "value": "#331906",
-            "type": "color"
+            "value": "#ffb612",
+            "type": "color",
+            "description": "Rijkshuisstijl donkergeel"
           }
         },
-        "yellow": {
-          "50": {
-            "value": "#fff7cf",
-            "type": "color"
-          },
-          "100": {
-            "value": "#ffef99",
-            "type": "color"
-          },
-          "200": {
-            "value": "#f9d100",
-            "type": "color"
-          },
-          "300": {
-            "value": "#ddb900",
-            "type": "color"
-          },
-          "400": {
-            "value": "#c1a200",
-            "type": "color"
-          },
+        "purper": {
           "500": {
-            "value": "#a08700",
-            "type": "color"
+            "value": "#884488",
+            "type": "color",
+            "description": "Purper basiskleur"
           },
           "600": {
-            "value": "#7d6900",
-            "type": "color"
-          },
-          "700": {
-            "value": "#685700",
-            "type": "color"
-          },
-          "800": {
-            "value": "#584a00",
-            "type": "color"
-          },
-          "900": {
-            "value": "#463b00",
-            "type": "color"
-          },
-          "950": {
-            "value": "#251f00",
-            "type": "color"
-          }
-        },
-        "green": {
-          "50": {
-            "value": "#ebfaef",
-            "type": "color"
-          },
-          "100": {
-            "value": "#d5f5de",
-            "type": "color"
-          },
-          "200": {
-            "value": "#94e6ab",
-            "type": "color"
-          },
-          "300": {
-            "value": "#4ad571",
-            "type": "color"
-          },
-          "400": {
-            "value": "#20bd4c",
-            "type": "color"
-          },
-          "500": {
-            "value": "#1b9d3f",
-            "type": "color"
-          },
-          "600": {
-            "value": "#157b31",
-            "type": "color"
-          },
-          "700": {
-            "value": "#116629",
-            "type": "color"
-          },
-          "800": {
-            "value": "#0f5723",
-            "type": "color"
-          },
-          "900": {
-            "value": "#0c451c",
-            "type": "color"
-          },
-          "950": {
-            "value": "#06250f",
-            "type": "color"
-          }
-        },
-        "sea-green": {
-          "50": {
-            "value": "#ebf9f8",
-            "type": "color"
-          },
-          "100": {
-            "value": "#d7f3f0",
-            "type": "color"
-          },
-          "200": {
-            "value": "#99e2d8",
-            "type": "color"
-          },
-          "300": {
-            "value": "#56cfbf",
-            "type": "color"
-          },
-          "400": {
-            "value": "#09b9a1",
-            "type": "color"
-          },
-          "500": {
-            "value": "#009a85",
-            "type": "color"
-          },
-          "600": {
-            "value": "#007869",
-            "type": "color"
-          },
-          "700": {
-            "value": "#006457",
-            "type": "color"
-          },
-          "800": {
-            "value": "#00554a",
-            "type": "color"
-          },
-          "900": {
-            "value": "#00433b",
-            "type": "color"
-          },
-          "950": {
-            "value": "#002520",
-            "type": "color"
+            "value": "#6d366d",
+            "type": "color",
+            "description": "Purper; \n+8% donkerder dmv sass darken() functie"
           }
         },
         "hemelblauw": {
@@ -478,52 +232,6 @@
             "value": "#00629e",
             "type": "color",
             "description": "Rijkshuisstijl hemelblauw; \n+8% donkerder dmv sass darken() functie"
-          }
-        },
-        "blue": {
-          "50": {
-            "value": "#eef8fe",
-            "type": "color"
-          },
-          "100": {
-            "value": "#ddf0fc",
-            "type": "color"
-          },
-          "200": {
-            "value": "#abdbf8",
-            "type": "color"
-          },
-          "300": {
-            "value": "#78c5f4",
-            "type": "color"
-          },
-          "400": {
-            "value": "#40adef",
-            "type": "color"
-          },
-          "500": {
-            "value": "#008de4",
-            "type": "color"
-          },
-          "600": {
-            "value": "#006fb3",
-            "type": "color"
-          },
-          "700": {
-            "value": "#005c94",
-            "type": "color"
-          },
-          "800": {
-            "value": "#004e7e",
-            "type": "color"
-          },
-          "900": {
-            "value": "#003e64",
-            "type": "color"
-          },
-          "950": {
-            "value": "#002237",
-            "type": "color"
           }
         },
         "light": {
@@ -1055,7 +763,7 @@
       },
       "focus": {
         "background-color": {
-          "value": "{voorbeeld.color.violet.200}",
+          "value": "{voorbeeld.color.donkergeel.400}",
           "type": "color"
         },
         "color": {
@@ -1063,7 +771,7 @@
           "type": "color"
         },
         "outline-color": {
-          "value": "{voorbeeld.color.violet.700}",
+          "value": "transparent",
           "type": "color"
         },
         "inverse": {
