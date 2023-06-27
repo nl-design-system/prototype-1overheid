@@ -1616,7 +1616,7 @@
           "disabled": {
             "background-color": {
               "type": "color",
-              "value": "{voorbeeld.color.gray.50}"
+              "value": "{voorbeeld.color.grijs.100}"
             },
             "border-color": {
               "value": "transparent",
@@ -1624,7 +1624,7 @@
             },
             "color": {
               "type": "color",
-              "value": "{voorbeeld.color.gray.500}"
+              "value": "{voorbeeld.color.grijs.500}"
             }
           },
           "focus": {
@@ -1664,7 +1664,7 @@
           "hover": {
             "background-color": {
               "type": "color",
-              "value": "{voorbeeld.color.gray.50}"
+              "value": "{voorbeeld.color.grijs.100}"
             },
             "border-color": {
               "type": "color",
@@ -1690,7 +1690,7 @@
           "disabled": {
             "background-color": {
               "type": "color",
-              "value": "{voorbeeld.color.gray.50}"
+              "value": "{voorbeeld.color.grijs.100}"
             },
             "border-color": {
               "type": "color",
@@ -1698,7 +1698,7 @@
             },
             "color": {
               "type": "color",
-              "value": "{voorbeeld.color.gray.500}"
+              "value": "{voorbeeld.color.grijs.500}"
             }
           },
           "focus": {
@@ -1722,7 +1722,7 @@
           "active": {
             "background-color": {
               "type": "color",
-              "value": "{voorbeeld.color.gray.100}"
+              "value": "{voorbeeld.color.grijs.100}"
             },
             "border-color": {
               "type": "color",
@@ -1740,11 +1740,11 @@
         },
         "border-color": {
           "type": "color",
-          "value": "{voorbeeld.color.gray.900}"
+          "value": "{voorbeeld.color.grijs.600}"
         },
         "color": {
           "type": "color",
-          "value": "{voorbeeld.color.gray.900}"
+          "value": "{voorbeeld.color.grijs.600}"
         },
         "border-radius": {
           "type": "borderRadius",
@@ -1810,7 +1810,7 @@
           "disabled": {
             "background-color": {
               "type": "color",
-              "value": "{voorbeeld.color.gray.50}"
+              "value": "{voorbeeld.color.grijs.100}"
             },
             "border-color": {
               "type": "color",
@@ -1818,7 +1818,7 @@
             },
             "color": {
               "type": "color",
-              "value": "{voorbeeld.color.gray.500}"
+              "value": "{voorbeeld.color.grijs.500}"
             }
           },
           "focus": {
@@ -1872,7 +1872,7 @@
         },
         "disabled": {
           "background-color": {
-            "value": "{voorbeeld.color.gray.50}",
+            "value": "{voorbeeld.color.grijs.100}",
             "type": "color"
           },
           "border-color": {
@@ -1880,7 +1880,7 @@
             "type": "color"
           },
           "color": {
-            "value": "{voorbeeld.color.gray.500}",
+            "value": "{voorbeeld.color.grijs.500}",
             "type": "color"
           }
         },
@@ -1900,7 +1900,7 @@
         },
         "hover": {
           "background-color": {
-            "value": "{voorbeeld.color.gray.50}",
+            "value": "{voorbeeld.color.grijs.100}",
             "type": "color"
           },
           "border-color": {
@@ -1914,7 +1914,7 @@
         },
         "active": {
           "background-color": {
-            "value": "{voorbeeld.color.gray.100}",
+            "value": "{voorbeeld.color.grijs.100}",
             "type": "color"
           },
           "border-color": {
@@ -2250,7 +2250,7 @@
         },
         "background-color": {
           "type": "color",
-          "value": "{voorbeeld.color.violet.100}"
+          "value": "{voorbeeld.color.rood.100}"
         },
         "border-color": {
           "type": "color",
@@ -2534,7 +2534,7 @@
         },
         "disabled": {
           "color": {
-            "value": "{voorbeeld.color.gray.600}",
+            "value": "{utrecht.form-control.disabled.color}",
             "type": "color"
           }
         }
@@ -3694,7 +3694,7 @@
         },
         "background-color": {
           "type": "color",
-          "value": "{voorbeeld.color.violet.100}"
+          "value": "{voorbeeld.color.rood.100}"
         },
         "border-color": {
           "type": "color",
