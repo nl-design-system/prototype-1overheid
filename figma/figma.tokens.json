@@ -807,7 +807,7 @@
           "type": "color"
         },
         "border-width": {
-          "value": "{voorbeeld.border-width.sm}",
+          "value": "{voorbeeld.border-width.md}",
           "type": "borderWidth"
         },
         "color": {
@@ -856,7 +856,7 @@
         },
         "focus": {
           "background-color": {
-            "value": "{voorbeeld.color.white}",
+            "value": "{voorbeeld.color.donkergeel.400}",
             "type": "color"
           },
           "border-color": {
@@ -1633,7 +1633,7 @@
               "value": "{utrecht.focus.background-color}"
             },
             "border-color": {
-              "value": "transparent",
+              "value": "{voorbeeld.color.black}",
               "type": "color"
             },
             "color": {
