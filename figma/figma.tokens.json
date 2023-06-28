@@ -1642,7 +1642,7 @@
             }
           },
           "font-weight": {
-            "value": "{utrecht.document.font-weight}",
+            "value": "{utrecht.document.strong.font-weight}",
             "type": "fontWeights"
           },
           "active": {
@@ -1752,7 +1752,7 @@
         },
         "border-width": {
           "type": "borderWidth",
-          "value": "{voorbeeld.border-width.sm}"
+          "value": "{voorbeeld.border-width.md}"
         },
         "icon": {
           "size": {
