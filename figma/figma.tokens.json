@@ -4,11 +4,12 @@
       "typography": {
         "font-size": {
           "sm": {
-            "value": "14px",
-            "type": "fontSizes"
+            "value": "14.4px",
+            "type": "fontSizes",
+            "description": "0.8rem"
           },
           "md": {
-            "value": "16px",
+            "value": "18px",
             "type": "fontSizes"
           },
           "lg": {
@@ -1009,6 +1010,20 @@
             "value": "{voorbeeld.color.black}",
             "type": "color"
           }
+        }
+      }
+    },
+    "p1o": {
+      "document": {
+        "font-family": {
+          "value": "{voorbeeld.typography.font-family.secondary}",
+          "type": "fontFamilies"
+        }
+      },
+      "heading": {
+        "font-family": {
+          "value": "{voorbeeld.typography.font-family.primary}",
+          "type": "fontFamilies"
         }
       }
     }
